@@ -12,11 +12,13 @@
 
 ## 文件目录
 
- [fix-explorer-icon-error.py](AI-Coding\fix-explorer-icon-error.py)   
+ [fix-explorer-icon-error.py](AI-Coding/fix-explorer-icon-error.py)   
 
 - #bing #python
 
 - 清空缩略图缓存并重启 Windows 资源管理器，以修复 Windows 经常出现的图标异常。
 
+[auto-email.py](AI-Coding/auto-email.py)  
 
-
+- #bing #python
+- 定时发邮件。
